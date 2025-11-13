@@ -1,0 +1,47 @@
+# -----------------------------
+# VisionMate AI → Humanizer v3.1
+# Author: Bhuvaneshwaran R
+# -----------------------------
+# Core Web App
+streamlit
+streamlit-components
+
+# NLP & Paraphrasing Models
+transformers
+torch
+sentencepiece
+accelerate
+
+# Grammar & Language Tools
+language-tool-python
+nltk
+
+# Utilities
+diff-match-patch
+regex
+numpy
+pandas
+
+# Web & HTML Rendering
+beautifulsoup4
+html5lib
+
+# Streamlit Compatibility Extras
+protobuf
+altair
+python-dateutil
+requests
+tqdm
+urllib3
+filelock
+packaging
+fsspec
+safetensors
+huggingface-hub
+tokenizers
+
+# Optional but Recommended
+python-dotenv
+six
+Jinja2
+MarkupSafe
