@@ -1,9 +1,13 @@
 venv/
 __pycache__/
+build/
+dist/
+*.exe
+*.spec
 *.pyc
 *.pyo
 *.pyd
 .env
 .DS_Store
-.idea/
 .vscode/
+.idea/
