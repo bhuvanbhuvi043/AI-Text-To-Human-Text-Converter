@@ -10,6 +10,10 @@ import traceback
 import nltk
 import streamlit.components.v1 as components
 
+# --- Fix for missing NLTK data on Streamlit Cloud ---
+nltk.download('punkt', quiet=True)
+nltk.download('punkt_tab', quiet=True)
+
 # ----------------------------
 # 🌐 Streamlit Config
 # ----------------------------
